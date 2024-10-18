@@ -1,0 +1,2 @@
+Dit is de eerste lijn van het voorbeeldbestand.
+Dit is de tweede lijn van het voorbeeldbestand.
